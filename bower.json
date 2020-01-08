@@ -1,0 +1,17 @@
+{
+  "name": "startcode.dev.mixin ",
+  "homepage": "https://github.com/start-code-dev/startcode.dev.mixin",
+  "authors": [
+    "Drasko Gomboc <drasko.gomboc@gmail.com>"
+  ],
+  "description": "global mixin for all projects",
+  "main": "src/_mixin.scss",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "mixin",
+    "advanced scss"
+  ],
+  "license": "MIT"
+}

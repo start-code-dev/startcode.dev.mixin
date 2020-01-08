@@ -1,0 +1,27 @@
+{
+  "name": "g4.mixin",
+  "version": "1.2.0",
+  "description": "Mixins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/start-code-dev/startcode.dev.mixin"
+  },
+  "keywords": [
+    "startcode.dev.mixin"
+  ],
+  "author": "start{code} <info@startcode.dev>",
+  "maintainers": [
+    "Drasko Gomboc <drasko.gomboc@gmail.com>",
+    "Drasko Gomboc <mirkovnemanja@gmail.com>",
+    "Zeljko Simic <zeljkosbgd@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/start-code-dev/startcode.dev.mixin/issues"
+  },
+  "homepage": "https://github.com/start-code-dev/startcode.dev.mixin#readme"
+}
